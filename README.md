@@ -3,7 +3,7 @@
 ---
 
 ## About Me
-I'm SuperrZirooo, a vocational high school student (Class 10 TKJ - Computer and Network Engineering) with a strong interest in technology and systems-level work. I'm currently focused on learning the Linux environment, basic networking, and cyber security fundamentals. I'm also interested in web-related technologies and open source projects.
+I'm SuperrZirooo, a vocational high school student with a strong interest in technology and systems-level work. I'm currently focused on learning the Linux environment, basic networking, and cyber security fundamentals. I'm also interested in web-related technologies and open source projects.
 
 I enjoy exploring how systems work behind the scenes, experimenting through the terminal, and learning by taking things apart and rebuilding them. In my free time, I enjoy gaming and tinkering with various technical things, especially programming and system configuration.
 
